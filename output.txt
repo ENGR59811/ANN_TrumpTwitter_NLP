@@ -1,0 +1,12 @@
+2024-10-08 percentage of correct predictions: 80.0% with error 0.8%
+2024-10-08 percentage of correct predictions: 90.0% with error 0.8%
+2024-10-08 percentage of correct predictions: 90.0% with error 0.8%
+2024-10-08 percentage of times correct prediction 60.0 %  with error 0.5%
+2024-10-08 percentage of correct predictions: 90.0% with error 0.5%
+2024-10-08 percentage of correct predictions: 80.0% with error 0.7%
+2024-10-08 percentage of correct predictions: 80.0% with error 0.2%
+2024-10-08 percentage of correct predictions: 80.0% with error 0.2%
+2024-10-08 percentage of correct predictions: 64.0% with error 0.3%
+2024-10-08 percentage of correct predictions: 64.0% with error 0.3%
+2024-10-08 percentage of correct predictions: 79.0% with error 0.2%
+2024-10-08 percentage of correct predictions: 65.0% with error 0.4%
